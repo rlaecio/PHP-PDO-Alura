@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:PHP-PDO-Alura}/banco.sqlite",
+            "name": "pdo-project"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
